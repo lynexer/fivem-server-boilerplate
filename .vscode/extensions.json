@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "sumneko.lua",
+        "eamodio.gitlens",
+        "communityox.cfxlua-vscode-cox"
+    ]
+}
