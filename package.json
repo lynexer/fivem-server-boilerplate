@@ -1,7 +1,8 @@
 {
   "name": "fivem-server-boilerplate",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "pnpm dlx @tsfx/artifacts -o ./FXServer",
+    "start": ".\\FXServer\\FXServer.exe +exec server.cfg"
   },
   "keywords": [],
   "author": "Kyle Graham",
