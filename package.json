@@ -1,0 +1,10 @@
+{
+  "name": "fivem-server-boilerplate",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kyle Graham",
+  "license": "MIT",
+  "packageManager": "pnpm@10.11.0"
+}
