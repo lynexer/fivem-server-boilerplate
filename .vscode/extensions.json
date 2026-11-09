@@ -1,7 +1,7 @@
 {
     "recommendations": [
         "sumneko.lua",
-        "eamodio.gitlens",
-        "communityox.cfxlua-vscode-cox"
+        "communityox.cfxlua-vscode-cox",
+        "mk12.better-git-line-blame"
     ]
 }
