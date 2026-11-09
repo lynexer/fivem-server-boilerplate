@@ -1,8 +1,10 @@
 {
   "name": "fivem-server-boilerplate",
   "scripts": {
-    "build": "pnpm dlx @tsfx/artifacts -o ./FXServer",
-    "start": ".\\FXServer\\FXServer.exe +exec server.cfg"
+    "build": "node scripts/server.mjs build",
+    "build:legacy": "node scripts/server.mjs build --platform legacy",
+    "build:enhanced": "node scripts/server.mjs build --platform enhanced",
+    "start": "node scripts/server.mjs start"
   },
   "keywords": [],
   "author": "Kyle Graham",

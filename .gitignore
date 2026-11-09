@@ -140,5 +140,6 @@ vite.config.ts.timestamp-*
 
 # FiveM
 [fF][xX][sS]erver/
+.server-platform
 cache/
 .replxx_history
